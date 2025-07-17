@@ -1,0 +1,5 @@
+Hello, world!
+
+First paramenter: {{var1}}
+Secord parameter: {{var2}}
+First paramenter again: {{var1}}
